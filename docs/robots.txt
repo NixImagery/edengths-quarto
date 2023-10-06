@@ -1,1 +1,1 @@
-Sitemap: https://yoursite.com/sitemap.xml
+Sitemap: https://niximagery.github.io/edengths-quarto/sitemap.xml

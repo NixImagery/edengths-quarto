@@ -53,14 +53,14 @@ book:
   favicon: front/EdUniCrest.pdf
   search: true
   downloads: [pdf]
-  site-url: https://yoursite.com
+  site-url: https://niximagery.github.io/edengths-quarto/
   open-graph: true
   navbar: 
     background: primary
     search: true
     right:
       - icon: github
-        href: https://github.com/yourhandle
+        href: https://github.com/NixImagery/edengths-quarto/
       - icon: instagram
         href: https://www.instagram.com/yourhandle/
       - icon: twitter
@@ -73,7 +73,7 @@ book:
     background: light
     right: 
       - icon: github
-        href: https://github.com/yourhandle
+        href: https://github.com/NixImagery/edengths-quarto/
       - icon: instagram
         href: https://www.instagram.com/yourhandle/
       - icon: twitter 

@@ -1,6 +1,4 @@
----
-title: Tools and software
----
+# Tools and software
 
 These are the tools I've used in creating this website (and the thesis that comes of it).
 

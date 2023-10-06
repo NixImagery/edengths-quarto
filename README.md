@@ -8,7 +8,7 @@ This is a quarto project which uses the Latex2e edengths template which correspo
 
 Please feel free to alter the template to your own liking, but note that the template is made available under the GNU GPL and must be similarly licensed should you wish to release your modified template.
 
-An example of the compiled template is available [here](https://niximagery.github.io/edengths-quarto/The-inside-of-a-ping-pong-ball.pdf).
+An example of the compiled template is available [here](https://niximagery.github.io/edengths-quarto/The-inside-of-a-ping-pong-ball.pdf). The website it makes can be seen [here](https://niximagery.github.io/edengths-quarto/).
 
 ## LICENSE
 

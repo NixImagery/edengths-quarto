@@ -1,0 +1,82 @@
+project:
+  type: book
+  output-dir: docs
+  preview:
+    port: 4100
+
+date: today
+date-modified: last-modified
+date-format: "Do MMMM YYYY"  
+bibliography: bib/edengths-quarto.bib
+# csl: /path/to/your/style-file.csl
+papersize: a4
+fontfamily: roboto
+fontfamilyoptions: sfdefault, light
+fontsize: 11pt
+
+format:
+  html:
+    theme: spacelab
+    page-layout: full
+    fig-cap-location: margin
+    mermaid: 
+      theme: default
+  pdf: 
+    documentclass: edengths
+    classoption: 
+      - 11pt
+      - crest
+      - fancychap
+
+number-depth: 0
+toc-depth: 2
+execute:
+  freeze: auto  # re-render only when source changes
+
+book:
+  title: "The inside of a ping-pong ball"
+  subtitle: "It's shiny and bright"
+  description: |
+    Planning and administration of a doctoral research project being conducted at the University of Edinburgh under the supervision of [Professor Kermit T. Frog](https://www.ed.ac.uk/profile/kermit) and [Dr. G. O'Nzo](https://www.ed.ac.uk/profile/gonzo). This book includes the draft chapters of the thesis and will eventually be, just the thesis. The book is published online as html, and as a downloadable pdf which uses the [edengths](https://github.com/H0R5E/edengths) thesis template.
+  author: 
+    name: "Random Student"
+    affiliation: University of Edinburgh
+    # orcid: 0000-0000-0000-0000
+  date: today
+
+  chapters:
+    - index.qmd
+    - 10-introduction.qmd
+    - references.qmd
+  appendices: 
+    - 77-1-tools-software.qmd
+  favicon: front/EdUniCrest.pdf
+  search: true
+  downloads: [pdf]
+  site-url: https://yoursite.com
+  open-graph: true
+  navbar: 
+    background: primary
+    search: true
+    right:
+      - icon: github
+        href: https://github.com/yourhandle
+      - icon: instagram
+        href: https://www.instagram.com/yourhandle/
+      - icon: twitter
+        href: https://twitter.com/yourhandle
+  sidebar:
+    logo: images/IMG_9378.png
+    contents: auto
+  page-footer: 
+    left: "Copyright 2023" 
+    background: light
+    right: 
+      - icon: github
+        href: https://github.com/yourhandle
+      - icon: instagram
+        href: https://www.instagram.com/yourhandle/
+      - icon: twitter 
+        href: https://twitter.com/yourhandle
+  page-navigation: true
+  google-analytics: G-0A0AAAA00A

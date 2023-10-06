@@ -1,0 +1,16 @@
+---
+title: Tools and software
+---
+
+These are the tools I've used in creating this website (and the thesis that comes of it).
+
+## Document production
+Markdown
+: All documents are written in some form of [Markdown](https://daringfireball.net/projects/markdown/), casually using the [Macdown](https://macdown.uranusjr.com/) open source Markdown editor for macOS. [Pandoc](https://pandoc.org/) is used to generate stand-alone documents from markdown source. Diagrams in these documents are produced using [mermaid](https://mermaid.js.org/#/) or [GraphViz](https://graphviz.org/).
+
+[Quarto](https://quarto.org/) 
+: is an open-source scientific and technical publishing system that is used to create websites and documents in the PhD project. The pdf file is built using Mathew Topper's thesis template [@Topper_LaTeX_PhD_Thesis_2023].
+
+[Visual Studio Code](https://visualstudio.microsoft.com/)
+: I use various text tools but the source files are mostly edited in VS Code as an integrated IDE. [Janis DD](https://marketplace.visualstudio.com/publishers/janisdd)'s [Edit CSV](https://marketplace.visualstudio.com/items?itemName=janisdd.vscode-edit-csv) plugin is useful for text-based data file editing.
+

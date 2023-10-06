@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: LaTeX PhD Thesis Template
+title: Quarto website and PhD Thesis Template
 message: >-
   If you would like to cite this template, please use the metadata from this file.
 type: software
@@ -7,19 +7,23 @@ authors:
   - given-names: Mathew
     family-names: Topper
     email: damm_horse@yahoo.co.uk
+  - given-names: Nick
+    family-names: Hood
+    email: nick.hood@ed.ac.uk
   - given-names: Mike
     family-names: Nolta
     email: mrnolta@princeton.edu
   - given-names: George
     family-names: Taylor
-  - name: "Contributors to the edengths Github repository"
-repository-code: 'https://github.com/H0R5E/edengths'
-url: 'https://www.dataonlygreater.com/software/edengths/'
+  - name: "Contributors to the edengths-quarto Github repository"
+repository-code: 'https://github.com/NixImagery/edengths-quarto'
+url: 'https://niximagery.github.io/edengths-quarto/'
 abstract: >-
-  This is a Latex2e template which corresponds to the regulations regarding layout of a thesis submitted within the University of Edinburgh. It is not official, but conforms as best as possible to published University of Edinburgh academic regulations.
+  This is a Quarto website and Latex2e template which corresponds to the regulations regarding layout of a thesis submitted within the University of Edinburgh. It is not official, but conforms as best as possible to published University of Edinburgh academic regulations.
 keywords:
   - thesis
   - Edinburgh
   - LaTeX
+  - quarto
   - PhD
 license: GPL-3.0

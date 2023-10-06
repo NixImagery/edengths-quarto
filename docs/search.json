@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "The inside of a ping-pong ball",
+    "section": "",
+    "text": "Preface\nThis research project is … of my doctoral interest."
+  },
+  {
+    "objectID": "10-introduction.html",
+    "href": "10-introduction.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "Blah blah rhubarb."
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Topper, Mathew. 2023. “LaTeX PhD Thesis\nTemplate.” https://github.com/H0R5E/edengths."
+  },
+  {
+    "objectID": "77-1-tools-software.html#document-production",
+    "href": "77-1-tools-software.html#document-production",
+    "title": "Appendix A — Tools and software",
+    "section": "Document production",
+    "text": "Document production\n\nMarkdown\n\nAll documents are written in some form of Markdown, casually using the Macdown open source Markdown editor for macOS. Pandoc is used to generate stand-alone documents from markdown source. Diagrams in these documents are produced using mermaid or GraphViz.\n\nQuarto\n\nis an open-source scientific and technical publishing system that is used to create websites and documents in the PhD project. The pdf file is built using Mathew Topper’s thesis template (Topper 2023).\n\nVisual Studio Code\n\nI use various text tools but the source files are mostly edited in VS Code as an integrated IDE. Janis DD’s Edit CSV plugin is useful for text-based data file editing.\n\n\n\n\n\n\nTopper, Mathew. 2023. “LaTeX PhD Thesis Template.” https://github.com/H0R5E/edengths."
+  }
+]

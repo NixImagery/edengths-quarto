@@ -1,8 +1,10 @@
 # edengths-quarto - Quarto website and PhD thesis template
 
-## ABOUT
+This repository **no longer maintained** as of 10 February 2025. My own thesis has moved to a different, less restrictive $\LaTeX$ document class. I will make a [small working example](https://github.com/NixImagery/SWE-quarto-thesis) of the project today. Edinburgh PGRs might consider using that as a starting point for their research project.
 
-This is a quarto project which uses the Latex2e edengths template which corresponds to the regulations regarding layout of a thesis submitted within the University of Edinburgh. It is **not official**, but conforms as best as possible to the regulation as detailed at:
+
+## ABOUT
+This was a quarto project which uses the Latex2e edengths template which corresponds to the regulations regarding layout of a thesis submitted within the University of Edinburgh. It is **not official**, but conforms as best as possible to the regulation as detailed at:
 
 [The University of Edinburgh Academic Services](http://www.ed.ac.uk/academic-services/students/thesis-submission)
 
